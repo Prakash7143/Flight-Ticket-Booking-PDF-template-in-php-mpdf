@@ -1,0 +1,12 @@
+Flight Ticket Booking PDF template in php-mpdf.
+
+
+Open this project in your browser.
+This pdf is generated using MPDF library of php.
+
+Here play with variables "$return_flight"  and "$via". Set them as 1 or 0 and see the results. Make sure to have installed composer in your system to run mpdf based application.
+
+Just look into the samplepdf there you will find the look of output.
+
+Happy Coding....
+Thanks....
